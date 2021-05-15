@@ -46,7 +46,7 @@
 
 #include <fuse.h>
 
-#define FUSE_SUPPORTS_ZERO_COPY FUSE_VERSION >= 29
+#define FUSE_SUPPORTS_ZERO_COPY 0
 
 using namespace std;
 
